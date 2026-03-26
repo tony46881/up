@@ -1,0 +1,52 @@
+﻿
+<html>
+<head>
+<style>
+table, th, td {
+border: 1px solid black;
+}
+th, td {
+padding: 15px;
+}
+th {
+text-align : center;
+}
+</style>
+<title>
+Agong Monarchy Land for sale
+3.5 acre with Mt. Kinabalu and Waterfalls view
+</title>
+
+
+</head>
+<body>
+<h1>
+Welcome to Agong Monarchy Land For Sale<br>
+3.5 acre with Mt. Kinabalu and Waterfalls view
+</h1>
+
+<h3>Bahasa BM Spanish Itali French German Chinese Japanese Korea</h3>
+
+<table>
+<tr>
+<th><img src="kinabalu.jpg"></th>
+<th><img src="agong.jpg"></th>
+<th>Waterfalls</th>
+</tr>
+<tr>
+<td>Tepi Jalan<br>Roadside</td>
+<td>Airport Nearby</td>
+<td>Water Treatment Plant</td>
+</tr>
+<td>4X4 Camel Trophy <br>Racing Track</td>
+<td>Mamut Lake</td>
+<td>Hotels, Homestay Nearby</td>
+</tr>
+
+</table>
+<h1>
++6.0172508991<br>
+dabc46881@gmail.com
+</h1>
+</body>
+</html>
